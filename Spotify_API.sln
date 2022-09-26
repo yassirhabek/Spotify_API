@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spotify_API", "Spotify_API\Spotify_API.csproj", "{81892596-969E-4447-97B3-F56C37021F91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic", "Logic\Logic.csproj", "{A55BC21E-2339-4265-A656-8ED5DB794CCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{CD564D4E-2822-47F8-9AFE-9F13A2B4AAAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{EF320B9B-A824-4D32-9C02-BBF5E80BADF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81892596-969E-4447-97B3-F56C37021F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81892596-969E-4447-97B3-F56C37021F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81892596-969E-4447-97B3-F56C37021F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81892596-969E-4447-97B3-F56C37021F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A55BC21E-2339-4265-A656-8ED5DB794CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55BC21E-2339-4265-A656-8ED5DB794CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55BC21E-2339-4265-A656-8ED5DB794CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55BC21E-2339-4265-A656-8ED5DB794CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD564D4E-2822-47F8-9AFE-9F13A2B4AAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD564D4E-2822-47F8-9AFE-9F13A2B4AAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD564D4E-2822-47F8-9AFE-9F13A2B4AAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD564D4E-2822-47F8-9AFE-9F13A2B4AAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF320B9B-A824-4D32-9C02-BBF5E80BADF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF320B9B-A824-4D32-9C02-BBF5E80BADF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF320B9B-A824-4D32-9C02-BBF5E80BADF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF320B9B-A824-4D32-9C02-BBF5E80BADF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC04F77-4716-447A-B0FB-F6A7D216932F}
+	EndGlobalSection
+EndGlobal
